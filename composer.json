@@ -17,8 +17,7 @@
         "php-mock/php-mock-phpunit": "^1.1", 
         "phpunit/phpunit": "4.8.*", 
         "squizlabs/php_codesniffer": "2.*", 
-        "wimg/php-compatibility": "*", 
-        "simplyadmire/composer-plugins": "@dev"
+        "wimg/php-compatibility": "*" 
     }, 
     "scripts": {
         "format": "php vendor/squizlabs/php_codesniffer/scripts/phpcs -n --standard=phpcs.xml", 
